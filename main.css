@@ -1,0 +1,43 @@
+body{
+    background: #DAD299;
+    background: -webkit-linear-gradient(to right, #B0DAB9, #DAD299);
+    background: linear-gradient(to right, #B0DAB9, #DAD299);
+    font-size: 20px;
+}
+#root{
+    margin: auto;
+    margin-top: 15vh;
+    width: 70vw;
+    height: 70vh;
+}
+img{
+    padding-top: 10vh;
+    padding-left: 10vw;
+    width: 15vw;
+}
+#root p{
+    text-align: center;
+}
+h1{
+    text-align: center;
+}
+input{
+    border: none;
+    background: inherit;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 20px;
+    margin-left: 20px;
+    border-bottom: black 1px solid;
+    font-size: inherit;
+}
+button{
+    margin-left: 10%;
+    margin-top: 20px;
+    align-self: center;
+    width: 80%;
+    height: 40px;
+    border-radius: 10px;
+    font-size: inherit;
+    background-color: #00ffc5;
+}
