@@ -1,0 +1,44 @@
+<svg id="Wings" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="242" height="195" viewBox="0 0 242 195">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #b0daf1;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5 {
+        stroke: #000;
+        stroke-width: 1px;
+        fill-rule: evenodd;
+      }
+
+      .cls-2 {
+        fill: #c57b57;
+      }
+
+      .cls-3 {
+        fill: #3d261b;
+      }
+
+      .cls-4 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <image id="Layer_0" data-name="Layer 0" width="242" height="195" xlink:href="data:img/png;base64,iVBORw0KGgoAAAANSUhEUgAAAPIAAADDCAYAAAC4TkysAAACT0lEQVR4nO3TAQ3AMAzAsP78OXc4GtkUony7uwOc9ssH9xkZAowMAUaGACNDgJEhwMgQYGQIMDIEGBkCjAwBRoYAI0OAkSHAyBBgZAgwMgQYGQKMDAFGhgAjQ4CRIcDIEGBkCDAyBBgZAowMAUaGACNDgJEhwMgQYGQIMDIEGBkCjAwBRoYAI0OAkSHAyBBgZAgwMgQYGQKMDAFGhgAjQ4CRIcDIEGBkCDAyBBgZAowMAUaGACNDgJEhwMgQYGQIMDIEGBkCjAwBRoYAI0OAkSHAyBBgZAgwMgQYGQKMDAFGhgAjQ4CRIcDIEGBkCDAyBBgZAowMAUaGACNDgJEhwMgQYGQIMDIEGBkCjAwBRoYAI0OAkSHAyBBgZAgwMgQYGQKMDAFGhgAjQ4CRIcDIEGBkCDAyBBgZAowMAUaGACNDgJEhwMgQYGQIMDIEGBkCjAwBRoYAI0OAkSHAyBBgZAgwMgQYGQKMDAFGhgAjQ4CRIcDIEGBkCDAyBBgZAowMAUaGACNDgJEhwMgQYGQIMDIEGBkCjAwBRoYAI0OAkSHAyBBgZAgwMgQYGQKMDAFGhgAjQ4CRIcDIEGBkCDAyBBgZAowMAUaGACNDgJEhwMgQYGQIMDIEGBkCjAwBRoYAI0OAkSHAyBBgZAgwMgQYGQKMDAFGhgAjQ4CRIcDIEGBkCDAyBBgZAowMAUaGACNDgJEhwMgQYGQIMDIEGBkCjAwBRoYAI0OAkSHAyBBgZAgwMgQYGQKMDAFGhgAjQ4CRIcDIEGBkCDAyBBgZrpuZB8O4BYL8uHooAAAAAElFTkSuQmCC"/>
+  <path class="cls-1" d="M112.055,87.742C36.663-59.291,135.887,41.426,128.983,67.659"/>
+  <path id="Shape_2_copy" data-name="Shape 2 copy" class="cls-1" d="M92.055,87.742C16.663-59.291,115.887,41.426,108.983,67.659"/>
+  <path id="Shape_2_copy_2" data-name="Shape 2 copy 2" class="cls-1" d="M137.864,87.228c75.71,147.265-23.933,46.389-17,20.114"/>
+  <path id="Shape_2_copy_3" data-name="Shape 2 copy 3" class="cls-1" d="M117.949,96.228c75.709,147.265-23.933,46.389-17,20.114"/>
+  <path class="cls-2" d="M216.5,67c14.083,0,25.5,4.7,25.5,10.5S230.583,88,216.5,88,191,83.3,191,77.5,202.417,67,216.5,67Z"/>
+  <path class="cls-2" d="M184,67c16.569,0,30,6.716,30,15s-13.431,15-30,15-30-6.716-30-15S167.431,67,184,67Z"/>
+  <path class="cls-2" d="M136,66c19.33,0,35,9.626,35,21.5S155.33,109,136,109s-35-9.626-35-21.5S116.67,66,136,66Z"/>
+  <path class="cls-2" d="M88.5,68.491c17.71,0,32.067,12.54,32.067,28.009S106.21,124.509,88.5,124.509,56.433,111.969,56.433,96.5,70.79,68.491,88.5,68.491Z"/>
+  <path id="Face-2" data-name="Face" class="cls-2" d="M42.5,71C59.9,71,74,84.879,74,102s-14.1,31-31.5,31S11,119.121,11,102,25.1,71,42.5,71Z"/>
+  <path id="Eye" class="cls-2" d="M15.5,78C24.06,78,31,83.373,31,90s-6.94,12-15.5,12S0,96.627,0,90,6.94,78,15.5,78Z"/>
+  <path id="Eye_copy" data-name="Eye copy" class="cls-2" d="M67.5,78C76.06,78,83,83.373,83,90s-6.94,12-15.5,12S52,96.627,52,90,58.94,78,67.5,78Z"/>
+  <path class="cls-3" d="M15.5,84c5.247,0,9.5,2.686,9.5,6s-4.253,6-9.5,6S6,93.314,6,90,10.253,84,15.5,84Z"/>
+  <path id="Ellipse_1_copy" data-name="Ellipse 1 copy" class="cls-3" d="M68.5,84c5.247,0,9.5,2.686,9.5,6s-4.253,6-9.5,6S59,93.314,59,90,63.253,84,68.5,84Z"/>
+  <path class="cls-4" d="M11,86c2.761,0,5,1.791,5,4s-2.239,4-5,4-5-1.791-5-4S8.239,86,11,86Z"/>
+  <path id="Ellipse_2_copy" data-name="Ellipse 2 copy" class="cls-4" d="M74,86c2.761,0,5,1.791,5,4s-2.239,4-5,4-5-1.791-5-4S71.239,86,74,86Z"/>
+  <path class="cls-5" d="M60.147,110.964c1.075,0.849-11.324,27.461-31.531,3.784-6.705-7.856-1.085-6.095,0-6.149,2.64-.131,5.489,9.191,15.159,9.46s16.978-7.095,16.978-7.095"/>
+</svg>
